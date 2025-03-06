@@ -1,6 +1,6 @@
 body {
   font-family: cursive;
-  background-image: url(https://images.unsplash.com/photo-1487147264018-f937fba0c817?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFzdGVsJTIweWVsbG93fGVufDB8fDB8fHww);
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Cute-Pastel-Yellow-Wallpaper-for-Mobile-1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -11,7 +11,7 @@ body {
   background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpghttps://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMzMtZXllLTEyLmpwZw.jpg);
   background-position: center;
   background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
   padding: 25px;
   text-align: center;
   border-width: 12px;
@@ -22,7 +22,7 @@ body {
 
 .flex {
   min-height: 600px;
-  gap: 20px;
+  gap: 30px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -64,7 +64,7 @@ body {
 
 #box3 {
   justify-self: flex-end;
-  margin-bottom: 50px;
+  margin-bottom: 200px;
 }
 
 h1 {
